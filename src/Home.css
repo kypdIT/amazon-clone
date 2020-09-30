@@ -1,4 +1,6 @@
 .home {
+  /* display: flex;
+  justify-content: center; */
   max-width: 1300px;
   margin-left: auto;
   margin-right: auto;
